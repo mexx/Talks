@@ -2,7 +2,7 @@
 
 namespace CleanCodeDays.Testorganisation
 {
-    public class Production
+    public partial class Production
     {
         public bool DoSomeWork()
         {
